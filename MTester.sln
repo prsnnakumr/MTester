@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MTester", "MTester\MTester.csproj", "{E745EF58-E2BE-4962-9ED0-9847B95319BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E745EF58-E2BE-4962-9ED0-9847B95319BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E745EF58-E2BE-4962-9ED0-9847B95319BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E745EF58-E2BE-4962-9ED0-9847B95319BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E745EF58-E2BE-4962-9ED0-9847B95319BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBF6D3C3-39D8-4B00-BF0F-5F1C4E711D0E}
+	EndGlobalSection
+EndGlobal
